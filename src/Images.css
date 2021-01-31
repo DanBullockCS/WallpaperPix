@@ -1,0 +1,40 @@
+/* Image specific styles */
+.Image-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.wallpaper {
+    margin-top: 1rem;
+    width: 50vw;
+    border-radius: 16px;
+    transition: 0.2s ease-in-out;
+}
+.wallpaper:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.image-link {
+    background:
+       linear-gradient(to bottom, #3f51b5 0%, #3f51b5 100% );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 2px 2px;
+    color: white;
+    text-decoration: none;
+    transition: background-size .2s;
+    padding: 0.5rem;
+    border-radius: 16px;
+  }
+  
+.image-link:hover {
+    background-size: 4px 50px;
+}
+
+/* Extra lightbox styling */
+.lb-canvas .lb-img {
+    border-radius: 16px;
+}
