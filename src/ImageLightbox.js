@@ -18,7 +18,7 @@ function ImageLightbox(props) {
 
     return (
         isImageClicked ?
-            <Lightbox image={props.imageUrl} onClose={unClickImage} title={props.imgTitle} />
+            <Lightbox image={props.imageUrl} onClose={unClickImage} title={props.imageTitle} />
             :
             <img alt={props.altText} src={props.imageUrl} onClick={clickImage} className={"wallpaper"} />
     )

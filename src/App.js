@@ -52,8 +52,8 @@ function App() {
           title="Home">
          </Button>
       </header>
-      <p class="App-description">Simple blog-like site put together to share some wallpapers I find visually appealing</p>
-      <div class="Image-grid">
+      <p className="App-description">Simple blog-like site put together to share some wallpapers I find visually appealing</p>
+      <div className="Image-grid">
         <ImageContainer imageUrl={wallpaper8} imageTitle={"Spiderverse Wallpaper"} originalImageLink={'https://www.pinterest.ca/pin/827536500259784179/'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper6} imageTitle={"Ring Graphic Wallpaper"} originalImageLink={'https://www.pinterest.ca/pin/796714990316954456/'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper2} imageTitle={"Louie Zong Cat Walking"} originalImageLink={'https://www.louiezong.com/#/bgs/'}></ImageContainer>

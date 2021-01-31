@@ -6,7 +6,7 @@ export default class ImageContainer extends React.Component {
         return (
             <div className={"image-container"} >
                 <ImageLightbox imageUrl={this.props.imageUrl} imageTitle={this.props.imageTitle} className={"image-lightbox"}></ImageLightbox>
-                <p><a class="image-link" href={this.props.originalImageLink} target="_blank" rel="noreferrer">Original Image Link</a></p>
+                <p><a className="image-link" href={this.props.originalImageLink} target="_blank" rel="noreferrer">Original Image Link</a></p>
             </div>
         )
     }
