@@ -33,7 +33,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a href="https://danbullock.me">
+        <a href="https://danbullock.me" target="_blank" rel="noreferrer">
           <img src={logo} className="App-logo" alt="logo" />
         </a>
         <div className="App-header-title">
@@ -46,7 +46,11 @@ function App() {
           color="primary"
           startIcon={<Icon>home</Icon>}
           href="https://danbullock.me"
-          target="_blank" alt="Home" title="Home"></Button>
+          target="_blank"
+          rel="noreferrer"
+          alt="Home"
+          title="Home">
+         </Button>
       </header>
       <p class="App-description">Simple blog-like site put together to share some wallpapers I find visually appealing</p>
       <div class="Image-grid">
