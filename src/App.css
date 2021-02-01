@@ -52,6 +52,14 @@ body {
   background-color: #131c22;
 }
 
+#twitter-link {
+  color: #3f51b5;
+  text-decoration: none;
+}
+#twitter-link:hover {
+  color: white;
+}
+
 /* Scrollbar */
 ::-webkit-scrollbar {
   width: 7px;

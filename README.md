@@ -1,7 +1,6 @@
 ## WallpaperPix
-- Simple blog-like site put together to share some wallpapers I find visually appealing
-- Used to experiment with ReactJS some more.
-- Made with React.JS
+- Simple blog site put together to share some wallpapers I find visually appealing
+- Made to experiment with ReactJS some more.
 - Live link: https://danbullock.me/WallpaperPix/
 
 ## Todos
