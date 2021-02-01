@@ -1,6 +1,7 @@
 // Components
 import React from 'react';
 import ImageContainer from './ImageContainer';
+import ScrollTop from "./ScrollTop";
 
 // Images
 import logo from './images/logo-white.png';
@@ -65,6 +66,7 @@ function App() {
         <ImageContainer imageUrl={wallpaper7} imageTitle={"Ponyo Wallpaper"} originalImageLink={'https://www.ghibli.jp/works/ponyo/#&gid=1&pid=12'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper9} imageTitle={"Spirited Away Wallpaper"} originalImageLink={'https://www.ghibli.jp/works/chihiro/#&gid=1&pid=7'}></ImageContainer>
       </div>
+      <ScrollTop />
     </div>
       
   );
