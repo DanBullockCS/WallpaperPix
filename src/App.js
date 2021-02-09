@@ -14,6 +14,8 @@ import wallpaper6 from './images/wallpapers/Ring.jpg';
 import wallpaper7 from './images/wallpapers/ponyo012.jpg';
 import wallpaper8 from './images/wallpapers/Spiderverse.jpg';
 import wallpaper9 from './images/wallpapers/chihiro007.jpg';
+import wallpaper10 from './images/wallpapers/Animal-crossing-2.jpg';
+import wallpaper11 from './images/wallpapers/fire-emblem-wallpaper-3.jpg';
 
 // Styles
 import './App.css';
@@ -60,6 +62,8 @@ function App() {
         <ImageContainer imageUrl={wallpaper6} imageTitle={"Ring Graphic Wallpaper"} originalImageLink={'https://www.reddit.com/r/wallpaper/comments/ekxvfq/ultraviolet_4k_wallpaper_3840_x_2160'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper2} imageTitle={"Louie Zong Cat Walking"} originalImageLink={'https://www.louiezong.com/#/bgs/'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper3} imageTitle={"Louie Zong Fox"} originalImageLink={'https://www.louiezong.com/#/bgs/'}></ImageContainer>
+        <ImageContainer imageUrl={wallpaper10} imageTitle={"Animal Crossing Wallpaper"} originalImageLink={'https://www.nintendo.com/wallpapers/'}></ImageContainer>
+        <ImageContainer imageUrl={wallpaper11} imageTitle={"Fire Emblem Wallpaper"} originalImageLink={'https://www.nintendo.com/wallpapers/'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper4} imageTitle={"Whisper of the Heart Wallpaper 1"} originalImageLink={'https://www.ghibli.jp/works/mimi/#frame&gid=1&pid=8'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper5} imageTitle={"Whisper of the Heart Wallpaper 2"} originalImageLink={'https://www.ghibli.jp/works/mimi/#frame&gid=1&pid=47'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper1} imageTitle={"Howl's Moving Castle Wallpaper"} originalImageLink={'https://www.ghibli.jp/works/howl/#&gid=1&pid=49'}></ImageContainer>
