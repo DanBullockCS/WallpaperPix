@@ -6,3 +6,4 @@
 ## Todos
 - Show what images would look like on a dummy desktop
 - Show what images would look like on a dummy phone
+- Get Images from a src folder

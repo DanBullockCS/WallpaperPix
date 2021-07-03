@@ -1,6 +1,7 @@
 // Components
 import React from 'react';
 import ImageContainer from './ImageContainer';
+import DesktopIconsOverlay from './DesktopIconsOverlay';
 import ScrollTop from "./ScrollTop";
 
 // Images
@@ -56,7 +57,9 @@ function App() {
           title="Home">
         </Button>
       </header>
+
       <p className="App-description">Simple blog site put together to share some wallpapers I find visually appealing</p>
+      {/* <DesktopIconsOverlay></DesktopIconsOverlay> */}
       <div className="Image-grid">
         <ImageContainer imageUrl={wallpaper8} imageTitle={"Spiderverse Wallpaper"} originalImageLink={'https://www.pixel4k.com/spiderman-miles-lost-in-space-4k-79998.html'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper6} imageTitle={"Ring Graphic Wallpaper"} originalImageLink={'https://www.reddit.com/r/wallpaper/comments/ekxvfq/ultraviolet_4k_wallpaper_3840_x_2160'}></ImageContainer>

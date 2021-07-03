@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Lightbox from "react-awesome-lightbox";
-
 import "react-awesome-lightbox/build/style.css";
 
 function ImageLightbox(props) {

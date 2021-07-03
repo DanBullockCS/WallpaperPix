@@ -8,10 +8,10 @@
 
 .wallpaper {
     margin-top: 1rem;
-    width: 50vw;
+    width: 80vw;
     border-radius: 16px;
     user-select: none;
-    transition: 0.2s ease-in-out;
+    transition: 300ms ease-in-out;
 }
 .wallpaper:hover {
     opacity: 0.6;
@@ -26,7 +26,7 @@
     background-size: 2px 2px;
     color: white;
     text-decoration: none;
-    transition: background-size .2s;
+    transition: background-size 300ms;
     padding: 0.5rem;
     border-radius: 16px;
   }
