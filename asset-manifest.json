@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/WallpaperPix/static/css/main.30b9b149.chunk.css",
+    "main.js": "/WallpaperPix/static/js/main.b4c9a880.chunk.js",
+    "main.js.map": "/WallpaperPix/static/js/main.b4c9a880.chunk.js.map",
+    "runtime-main.js": "/WallpaperPix/static/js/runtime-main.4a0c18d3.js",
+    "runtime-main.js.map": "/WallpaperPix/static/js/runtime-main.4a0c18d3.js.map",
+    "static/css/2.ca943e7e.chunk.css": "/WallpaperPix/static/css/2.ca943e7e.chunk.css",
+    "static/js/2.c4e97cd6.chunk.js": "/WallpaperPix/static/js/2.c4e97cd6.chunk.js",
+    "static/js/2.c4e97cd6.chunk.js.map": "/WallpaperPix/static/js/2.c4e97cd6.chunk.js.map",
+    "index.html": "/WallpaperPix/index.html",
+    "static/css/2.ca943e7e.chunk.css.map": "/WallpaperPix/static/css/2.ca943e7e.chunk.css.map",
+    "static/css/main.30b9b149.chunk.css.map": "/WallpaperPix/static/css/main.30b9b149.chunk.css.map",
+    "static/js/2.c4e97cd6.chunk.js.LICENSE.txt": "/WallpaperPix/static/js/2.c4e97cd6.chunk.js.LICENSE.txt",
+    "static/media/Animal-crossing-2.16972dff.jpg": "/WallpaperPix/static/media/Animal-crossing-2.16972dff.jpg",
+    "static/media/Ring.7df6f6d2.jpg": "/WallpaperPix/static/media/Ring.7df6f6d2.jpg",
+    "static/media/Spiderverse.48caa8f6.jpg": "/WallpaperPix/static/media/Spiderverse.48caa8f6.jpg",
+    "static/media/chihiro007.6a6f0ef2.jpg": "/WallpaperPix/static/media/chihiro007.6a6f0ef2.jpg",
+    "static/media/fire-emblem-wallpaper-3.f03e4177.jpg": "/WallpaperPix/static/media/fire-emblem-wallpaper-3.f03e4177.jpg",
+    "static/media/howl049.6289c6df.jpg": "/WallpaperPix/static/media/howl049.6289c6df.jpg",
+    "static/media/logo-white.e7302e47.png": "/WallpaperPix/static/media/logo-white.e7302e47.png",
+    "static/media/louie-zong-cat-walking-bg.6206659d.png": "/WallpaperPix/static/media/louie-zong-cat-walking-bg.6206659d.png",
+    "static/media/louie-zong-fox.dac80a31.png": "/WallpaperPix/static/media/louie-zong-fox.dac80a31.png",
+    "static/media/mimi008.acb80d7c.jpg": "/WallpaperPix/static/media/mimi008.acb80d7c.jpg",
+    "static/media/mimi047.e93fdf35.jpg": "/WallpaperPix/static/media/mimi047.e93fdf35.jpg",
+    "static/media/ponyo012.4be4db26.jpg": "/WallpaperPix/static/media/ponyo012.4be4db26.jpg",
+    "static/media/rav.036a8ded.jpg": "/WallpaperPix/static/media/rav.036a8ded.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a0c18d3.js",
+    "static/css/2.ca943e7e.chunk.css",
+    "static/js/2.c4e97cd6.chunk.js",
+    "static/css/main.30b9b149.chunk.css",
+    "static/js/main.b4c9a880.chunk.js"
+  ]
+}
