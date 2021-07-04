@@ -17,6 +17,7 @@ import wallpaper8 from './images/wallpapers/Spiderverse.jpg';
 import wallpaper9 from './images/wallpapers/chihiro007.jpg';
 import wallpaper10 from './images/wallpapers/Animal-crossing-2.jpg';
 import wallpaper11 from './images/wallpapers/fire-emblem-wallpaper-3.jpg';
+import wallpaper12 from './images/wallpapers/rav.jpg';
 
 // Styles
 import './App.css';
@@ -38,7 +39,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a href="https://danbullock.me" target="_blank" rel="noreferrer">
+        <a href="https://danbullock.me" rel="noreferrer">
           <img src={logo} className="App-logo" alt="logo" />
         </a>
         <div className="App-header-title">
@@ -61,6 +62,7 @@ function App() {
       <p className="App-description">Simple blog site put together to share some wallpapers I find visually appealing</p>
       {/* <DesktopIconsOverlay></DesktopIconsOverlay> */}
       <div className="Image-grid">
+        <ImageContainer imageUrl={wallpaper12} imageTitle={"Rav Wallpaper"} originalImageLink={'https://open.spotify.com/artist/6oeSQ4qmDQ7n89Rdt6tLLn'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper8} imageTitle={"Spiderverse Wallpaper"} originalImageLink={'https://www.pixel4k.com/spiderman-miles-lost-in-space-4k-79998.html'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper6} imageTitle={"Ring Graphic Wallpaper"} originalImageLink={'https://www.reddit.com/r/wallpaper/comments/ekxvfq/ultraviolet_4k_wallpaper_3840_x_2160'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper2} imageTitle={"Louie Zong Cat Walking"} originalImageLink={'https://www.louiezong.com/#/bgs/'}></ImageContainer>
@@ -71,7 +73,7 @@ function App() {
         <ImageContainer imageUrl={wallpaper5} imageTitle={"Whisper of the Heart Wallpaper 2"} originalImageLink={'https://www.ghibli.jp/works/mimi/#frame&gid=1&pid=47'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper1} imageTitle={"Howl's Moving Castle Wallpaper"} originalImageLink={'https://www.ghibli.jp/works/howl/#&gid=1&pid=49'}></ImageContainer>
         <ImageContainer imageUrl={wallpaper7} imageTitle={"Ponyo Wallpaper"} originalImageLink={'https://www.ghibli.jp/works/ponyo/#&gid=1&pid=12'}></ImageContainer>
-        <ImageContainer imageUrl={wallpaper9} imageTitle={"Spirited Away Wallpaper"} originalImageLink={'https://www.ghibli.jp/works/chihiro/#&gid=1&pid=7'}></ImageContainer>
+        <ImageContainer imageUrl={wallpaper9} imageTitle={"Spirited Away Wallpaper"} originalImageLink={'https://www.ghibli.jp/works/chihiro/#&gid=1&pid=7'}></ImageContainer> 
       </div>
       <ScrollTop />
     </div>
